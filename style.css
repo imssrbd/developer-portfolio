@@ -23,6 +23,7 @@ h2{
     width: 80%;
 }
 .link-button{
+    color: white;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     font-weight: 700;
